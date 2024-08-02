@@ -45,4 +45,5 @@ void copy (void)
         ++i;
 }
 
-/*gospodi pomogi proshu aaaaaaaaaaaaa*/
+/*gospodi pomogi proshu aaaaaaaaaaaaa
+mama aaaa */
